@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2DS-GabrielBarros\\RpgAPI\\RpgAPI.csproj": {}
+    "D:\\2DS-GabrielBarros\\RpgAPI\\RpgApi.csproj": {}
   },
   "projects": {
-    "D:\\2DS-GabrielBarros\\RpgAPI\\RpgAPI.csproj": {
+    "D:\\2DS-GabrielBarros\\RpgAPI\\RpgApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2DS-GabrielBarros\\RpgAPI\\RpgAPI.csproj",
-        "projectName": "RpgAPI",
-        "projectPath": "D:\\2DS-GabrielBarros\\RpgAPI\\RpgAPI.csproj",
+        "projectUniqueName": "D:\\2DS-GabrielBarros\\RpgAPI\\RpgApi.csproj",
+        "projectName": "RpgApi",
+        "projectPath": "D:\\2DS-GabrielBarros\\RpgAPI\\RpgApi.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
         "outputPath": "D:\\2DS-GabrielBarros\\RpgAPI\\obj\\",
         "projectStyle": "PackageReference",
